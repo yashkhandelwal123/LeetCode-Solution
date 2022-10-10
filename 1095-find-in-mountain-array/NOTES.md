@@ -1,1 +1,2 @@
-​
+first we have find the maximum element in the array , then we apply binay search in fifirst half i.e from 0 to peak_element.
+if we do not get the value we apply binary search for other half ( binary_reverse because array is sorted in non increasing order.
