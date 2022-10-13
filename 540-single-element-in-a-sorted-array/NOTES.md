@@ -1,0 +1,1 @@
+length of an array is the point o which binary search can be applied
