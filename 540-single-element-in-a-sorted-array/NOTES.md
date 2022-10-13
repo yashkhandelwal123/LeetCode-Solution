@@ -1,1 +1,1 @@
-length of an array is the point o which binary search can be applied
+length of an array is the point on which binary search can be applied and the elements comparision.
